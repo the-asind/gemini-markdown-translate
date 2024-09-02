@@ -120,3 +120,5 @@ if __name__ == '__main__':
 
     # Translate all files in the input directory
     translate_directory(input_dir, output_dir)
+    print('Translation completed.\nIf you encounter an error with code, please make an issue: https://github.com/the-asind/gemini-markdown-translate/issues')
+    print('If the script worked fine, please give a star to the repository: https://github.com/the-asind/gemini-markdown-translate/')

@@ -1,5 +1,5 @@
-You have to to translate the documentation for <__specify!__>
-Translate the Markdown content I'll paste later into russian
+You have to to translate the documentation for <__specify!__>.
+Translate the Markdown content I'll paste later into <__language__>.
 
 You must strictly follow the rules below.
 

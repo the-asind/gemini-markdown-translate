@@ -3,7 +3,7 @@
 ## Prerequisites
 
 - Python 3.x (or you can use release executables) 
-- Google Gemini API key
+- Google Gemini API key (get FREE key from https://aistudio.google.com/app/apikey)
 
 ## Install 
 
